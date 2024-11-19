@@ -1,0 +1,5 @@
+langchain_community
+langchain
+transformers
+g4f
+faiss
